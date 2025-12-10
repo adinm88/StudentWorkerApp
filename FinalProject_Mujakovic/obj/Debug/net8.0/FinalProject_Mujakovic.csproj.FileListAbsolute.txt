@@ -1,0 +1,14 @@
+/Users/adinmujakovic/Documents/CIS169~C#/Projects/FinalProject_Mujakovic/FinalProject_Mujakovic/bin/Debug/net8.0/FinalProject_Mujakovic
+/Users/adinmujakovic/Documents/CIS169~C#/Projects/FinalProject_Mujakovic/FinalProject_Mujakovic/bin/Debug/net8.0/FinalProject_Mujakovic.deps.json
+/Users/adinmujakovic/Documents/CIS169~C#/Projects/FinalProject_Mujakovic/FinalProject_Mujakovic/bin/Debug/net8.0/FinalProject_Mujakovic.runtimeconfig.json
+/Users/adinmujakovic/Documents/CIS169~C#/Projects/FinalProject_Mujakovic/FinalProject_Mujakovic/bin/Debug/net8.0/FinalProject_Mujakovic.dll
+/Users/adinmujakovic/Documents/CIS169~C#/Projects/FinalProject_Mujakovic/FinalProject_Mujakovic/bin/Debug/net8.0/FinalProject_Mujakovic.pdb
+/Users/adinmujakovic/Documents/CIS169~C#/Projects/FinalProject_Mujakovic/FinalProject_Mujakovic/obj/Debug/net8.0/FinalProject_Mujakovic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adinmujakovic/Documents/CIS169~C#/Projects/FinalProject_Mujakovic/FinalProject_Mujakovic/obj/Debug/net8.0/FinalProject_Mujakovic.AssemblyInfoInputs.cache
+/Users/adinmujakovic/Documents/CIS169~C#/Projects/FinalProject_Mujakovic/FinalProject_Mujakovic/obj/Debug/net8.0/FinalProject_Mujakovic.AssemblyInfo.cs
+/Users/adinmujakovic/Documents/CIS169~C#/Projects/FinalProject_Mujakovic/FinalProject_Mujakovic/obj/Debug/net8.0/FinalProject_Mujakovic.csproj.CoreCompileInputs.cache
+/Users/adinmujakovic/Documents/CIS169~C#/Projects/FinalProject_Mujakovic/FinalProject_Mujakovic/obj/Debug/net8.0/FinalProject_Mujakovic.dll
+/Users/adinmujakovic/Documents/CIS169~C#/Projects/FinalProject_Mujakovic/FinalProject_Mujakovic/obj/Debug/net8.0/refint/FinalProject_Mujakovic.dll
+/Users/adinmujakovic/Documents/CIS169~C#/Projects/FinalProject_Mujakovic/FinalProject_Mujakovic/obj/Debug/net8.0/FinalProject_Mujakovic.pdb
+/Users/adinmujakovic/Documents/CIS169~C#/Projects/FinalProject_Mujakovic/FinalProject_Mujakovic/obj/Debug/net8.0/FinalProject_Mujakovic.genruntimeconfig.cache
+/Users/adinmujakovic/Documents/CIS169~C#/Projects/FinalProject_Mujakovic/FinalProject_Mujakovic/obj/Debug/net8.0/ref/FinalProject_Mujakovic.dll
